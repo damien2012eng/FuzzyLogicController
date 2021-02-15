@@ -1,5 +1,5 @@
 # FuzzyLogicController
-Developed a fuzzy logic controller to dynamically adjust applied voltage to maintain water level stayed at a desired level inside a leaking tank. The project contains two parts with different parameters. Please refer resources for details.
+Developed a fuzzy logic controller to dynamically adjust applied voltage to maintain water level stayed at a desired level inside a leaking tank. The project contains two parts with different parameters. Refer Resource folder for details.
 
 ## Problem Identification
 ![alt text](https://github.com/damien2012eng/FuzzyLogicController/blob/main/Resource/Images/Problem.JPG?raw=true)
